@@ -9,7 +9,7 @@ try
     SimpleMethod();
 }
 catch (InvalidOperationException ex)
-{
+{ 
     Console.WriteLine("You should not be calling this messetheods.");
     Console.WriteLine(ex.Message);
 }
