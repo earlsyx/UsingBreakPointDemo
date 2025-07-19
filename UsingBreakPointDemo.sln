@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{706230B6-4F18-4878-B581-DD10C0B4E47C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWDebug", "HWDebug\HWDebug.csproj", "{AE8DAAC3-B64B-4832-ACAD-B664EED28F8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingException", "HandlingException\HandlingException.csproj", "{0E83172A-02EB-41F0-B568-E0E6BFF79A55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AE8DAAC3-B64B-4832-ACAD-B664EED28F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE8DAAC3-B64B-4832-ACAD-B664EED28F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE8DAAC3-B64B-4832-ACAD-B664EED28F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E83172A-02EB-41F0-B568-E0E6BFF79A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E83172A-02EB-41F0-B568-E0E6BFF79A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E83172A-02EB-41F0-B568-E0E6BFF79A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E83172A-02EB-41F0-B568-E0E6BFF79A55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
